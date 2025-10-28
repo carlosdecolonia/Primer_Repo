@@ -1,1 +1,2 @@
-Soy un nuevo archivo de texto
+Soy un nuevo archivo de texto.
+Hemos editado el archivo.
